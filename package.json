@@ -2,7 +2,7 @@
 
 "$Mobilenumber" : "8888888111" ,
 "$OTP" : "110323" ,
-"$URL" : "https://stage.mgreassure.com/" , 
+"baseUrl" : "https://stage.mgreassure.com/" , 
 
 "$Expecteddateoftradein" : "2023-03-30"
 
